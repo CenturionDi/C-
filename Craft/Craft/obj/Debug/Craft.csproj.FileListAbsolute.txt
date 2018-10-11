@@ -1,0 +1,7 @@
+C:\Users\abdim\source\repos\Craft\Craft\obj\Debug\Craft.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\Craft\Craft\obj\Debug\Craft.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\Craft\Craft\bin\Debug\Craft.exe.config
+C:\Users\abdim\source\repos\Craft\Craft\bin\Debug\Craft.exe
+C:\Users\abdim\source\repos\Craft\Craft\bin\Debug\Craft.pdb
+C:\Users\abdim\source\repos\Craft\Craft\obj\Debug\Craft.exe
+C:\Users\abdim\source\repos\Craft\Craft\obj\Debug\Craft.pdb
