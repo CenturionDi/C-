@@ -1,0 +1,7 @@
+C:\Users\abdim\source\repos\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\abdim\source\repos\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\abdim\source\repos\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\abdim\source\repos\Structure\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\abdim\source\repos\Structure\Structure\obj\Debug\Structure.pdb
