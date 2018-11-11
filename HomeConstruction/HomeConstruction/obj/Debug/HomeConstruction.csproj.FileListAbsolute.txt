@@ -1,0 +1,7 @@
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\obj\Debug\HomeConstruction.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\obj\Debug\HomeConstruction.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\bin\Debug\HomeConstruction.exe.config
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\bin\Debug\HomeConstruction.exe
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\bin\Debug\HomeConstruction.pdb
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\obj\Debug\HomeConstruction.exe
+C:\Users\abdim\source\repos\HomeConstruction\HomeConstruction\obj\Debug\HomeConstruction.pdb
