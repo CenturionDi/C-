@@ -1,0 +1,7 @@
+C:\Users\abdim\source\repos\XmlBase\XmlBase\bin\Debug\XmlBase.exe.config
+C:\Users\abdim\source\repos\XmlBase\XmlBase\bin\Debug\XmlBase.exe
+C:\Users\abdim\source\repos\XmlBase\XmlBase\bin\Debug\XmlBase.pdb
+C:\Users\abdim\source\repos\XmlBase\XmlBase\obj\Debug\XmlBase.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\XmlBase\XmlBase\obj\Debug\XmlBase.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\XmlBase\XmlBase\obj\Debug\XmlBase.exe
+C:\Users\abdim\source\repos\XmlBase\XmlBase\obj\Debug\XmlBase.pdb
