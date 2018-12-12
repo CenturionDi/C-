@@ -1,0 +1,10 @@
+C:\Users\АбдимашД\source\repos\DB\DB\bin\Debug\DB.exe.config
+C:\Users\АбдимашД\source\repos\DB\DB\bin\Debug\DB.exe
+C:\Users\АбдимашД\source\repos\DB\DB\bin\Debug\DB.pdb
+C:\Users\АбдимашД\source\repos\DB\DB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АбдимашД\source\repos\DB\DB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\АбдимашД\source\repos\DB\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\АбдимашД\source\repos\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\АбдимашД\source\repos\DB\DB\obj\Debug\DB.csproj.CopyComplete
+C:\Users\АбдимашД\source\repos\DB\DB\obj\Debug\DB.exe
+C:\Users\АбдимашД\source\repos\DB\DB\obj\Debug\DB.pdb
