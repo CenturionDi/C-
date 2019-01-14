@@ -1,0 +1,13 @@
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\News3.exe.config
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\News3.exe
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\News3.pdb
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\EntityFramework.dll
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\EntityFramework.xml
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\АбдимашД\source\repos\News3\News3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\АбдимашД\source\repos\News3\News3\obj\Debug\News3.csprojAssemblyReference.cache
+C:\Users\АбдимашД\source\repos\News3\News3\obj\Debug\News3.csproj.CoreCompileInputs.cache
+C:\Users\АбдимашД\source\repos\News3\News3\obj\Debug\News3.csproj.CopyComplete
+C:\Users\АбдимашД\source\repos\News3\News3\obj\Debug\News3.exe
+C:\Users\АбдимашД\source\repos\News3\News3\obj\Debug\News3.pdb
