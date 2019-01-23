@@ -1,0 +1,7 @@
+C:\Users\АбдимашД\source\repos\Connected\Connected\bin\Debug\Connected.exe.config
+C:\Users\АбдимашД\source\repos\Connected\Connected\bin\Debug\Connected.exe
+C:\Users\АбдимашД\source\repos\Connected\Connected\bin\Debug\Connected.pdb
+C:\Users\АбдимашД\source\repos\Connected\Connected\obj\Debug\Connected.csprojAssemblyReference.cache
+C:\Users\АбдимашД\source\repos\Connected\Connected\obj\Debug\Connected.csproj.CoreCompileInputs.cache
+C:\Users\АбдимашД\source\repos\Connected\Connected\obj\Debug\Connected.exe
+C:\Users\АбдимашД\source\repos\Connected\Connected\obj\Debug\Connected.pdb
