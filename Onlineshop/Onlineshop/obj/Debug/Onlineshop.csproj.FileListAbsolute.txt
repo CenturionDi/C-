@@ -1,0 +1,13 @@
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\Onlineshop.exe.config
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\Onlineshop.exe
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\Onlineshop.pdb
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\EntityFramework.dll
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\EntityFramework.xml
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\obj\Debug\Onlineshop.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\obj\Debug\Onlineshop.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\obj\Debug\Onlineshop.csproj.CopyComplete
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\obj\Debug\Onlineshop.exe
+C:\Users\abdim\source\repos\Onlineshop\Onlineshop\obj\Debug\Onlineshop.pdb
